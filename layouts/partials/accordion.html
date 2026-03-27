@@ -1,0 +1,8 @@
+<div class="accordion">
+  {{ range .context }}
+  <div class="accordion-item">
+    <div class="accordion-header">{{ .header }}</div>
+    <div class="accordion-content">{{ .content }}</div>
+  </div>
+  {{ end }}
+</div>

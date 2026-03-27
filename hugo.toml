@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '0CMS Hugo Example'
+theme = []
+
+[params]
+  description = 'A simple Hugo example for 0CMS'
