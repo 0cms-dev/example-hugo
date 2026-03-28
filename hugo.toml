@@ -1,4 +1,4 @@
-baseURL = 'https://0cms-dev.github.io/0cms-example-hugo/'
+baseURL = 'https://0cms-dev.github.io/example-hugo/'
 title = '0CMS Hugo Example'
 languageCode = 'en-us'
 
